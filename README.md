@@ -12,6 +12,8 @@ The objective is to identify regions of interests (ROIs) in the brain that are a
 
 The experiments in our paper are done with the pytorch implementation.
 
+The ouput results will be written in the data folder.
+
 ## Citation
 Please cite this paper if you want to use it in your work,
 
