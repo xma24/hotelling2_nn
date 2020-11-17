@@ -1,0 +1,8 @@
+The node embedding dataset should be included in this folder. Each graph is represented as a matrix.
+
+The following is the structure of this folder used in our experiments.
+
+data
+ |_ _node2vec_embedding_dataset
+ unc_data_labels_aligned.txt
+ unc_raw_labels.txt
